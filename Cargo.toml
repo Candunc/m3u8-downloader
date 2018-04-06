@@ -1,0 +1,9 @@
+[package]
+name = "m3u8-downloader"
+version = "0.1.0"
+authors = ["Duncan Bristow <duncan_bristow@candunc.com>"]
+
+[dependencies]
+url = "1.7.0"
+hyper="0.10.4"
+hyper-rustls="0.6.1"
